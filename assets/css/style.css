@@ -885,6 +885,24 @@ section {
   margin-bottom: 0;
 }
 
+#locksmith {
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+
+#locksmith .locksmithContent {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 30px;
+}
+#locksmith .locksmithContent ul {
+  list-style: none;
+}
+#locksmith .locksmithContent ul i {
+  color: #1bbd36;
+}
+
 /*--------------------------------------------------------------
 # Our Team
 --------------------------------------------------------------*/
