@@ -95,6 +95,11 @@ h6 {
     font-size: 3vw;
   }
 }
+@media screen and (max-width: 280px) {
+  #header .logo {
+    font-size: 2vw;
+  }
+}
 
 #header .logo a {
   color: #111;
