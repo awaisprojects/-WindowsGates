@@ -360,6 +360,22 @@ h6 {
   left: 0;
   bottom: 0;
 }
+
+.contactNumber {
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  top: 20px;
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  right: 0px;
+  position: absolute;
+}
+.bannerPhone {
+  padding: 10px;
+  background-color: rgba(88, 190, 56, 0.4);
+}
 #hero .carousel-container {
   display: flex;
   align-items: flex-end;
